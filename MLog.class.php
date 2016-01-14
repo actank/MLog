@@ -1,8 +1,8 @@
 <?php
 /**
- * @file MLog.php
+ * @file MLog.class.php
  * @brief class for logging
- * @author CHEN Yijie(yijiechen@meilishuo.com)
+ * @author jishiyu(jishiyu@meilishuo.com)
  *  
  **/
 namespace Libs\Log;
